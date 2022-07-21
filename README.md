@@ -1,16 +1,4 @@
-# darkmode
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## dark_mode
+![dark](https://user-images.githubusercontent.com/92242259/180226904-cbb1ebae-80a8-4f27-9241-5ed61b87acc2.png)
+## light_mode
+![light](https://user-images.githubusercontent.com/92242259/180226905-6704d9e7-84e9-403c-a34c-e8cd4829f40f.png)
